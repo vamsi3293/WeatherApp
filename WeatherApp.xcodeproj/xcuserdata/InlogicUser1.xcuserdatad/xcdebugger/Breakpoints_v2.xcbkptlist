@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "14AF2E7D-C8CC-41E9-A920-F6EADA684CDC"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F1A55BF1-9A00-4AC2-A7DF-BC9BAF7232C4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeatherApp/Controllers/HomeScreen/ViewModel/ForecastVM.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "getWeatherForecastData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F1A55BF1-9A00-4AC2-A7DF-BC9BAF7232C4 - 5e47a0c4d92032af"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Bool, Swift.Optional&lt;WeatherApp.LocationModel&gt;, Swift.Optional&lt;WeatherApp.ForecastModel&gt;, Swift.Optional&lt;Swift.String&gt;) -&gt; () in WeatherApp.ForecastVM.getWeatherForecastData() -&gt; ()"
+                  moduleName = "WeatherApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/InlogicUser1/Desktop/WeatherApp/WeatherApp/Controllers/HomeScreen/ViewModel/ForecastVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "932">
+               </Location>
+               <Location
+                  uuid = "F1A55BF1-9A00-4AC2-A7DF-BC9BAF7232C4 - 5e47a0c4d92032af"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Bool, Swift.Optional&lt;WeatherApp.LocationModel&gt;, Swift.Optional&lt;WeatherApp.ForecastModel&gt;, Swift.Optional&lt;Swift.String&gt;) -&gt; () in WeatherApp.ForecastVM.getWeatherForecastData() -&gt; ()"
+                  moduleName = "WeatherApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/InlogicUser1/Desktop/WeatherApp/WeatherApp/Controllers/HomeScreen/ViewModel/ForecastVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "960">
+               </Location>
+               <Location
+                  uuid = "F1A55BF1-9A00-4AC2-A7DF-BC9BAF7232C4 - 5e47a0c4d92032af"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Bool, Swift.Optional&lt;WeatherApp.LocationModel&gt;, Swift.Optional&lt;WeatherApp.ForecastModel&gt;, Swift.Optional&lt;Swift.String&gt;) -&gt; () in WeatherApp.ForecastVM.getWeatherForecastData() -&gt; ()"
+                  moduleName = "WeatherApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/InlogicUser1/Desktop/WeatherApp/WeatherApp/Controllers/HomeScreen/ViewModel/ForecastVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "1096">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DF0799EA-CDC3-45DE-AA4D-9BF487BC3F37"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeatherApp/Controllers/HomeScreen/Models/Location.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "9"
+            endingLineNumber = "9"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
